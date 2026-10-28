@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">カフェラテ</title>
+  <desc id="desc">木のテーブルに置かれた、ハートのラテアートがあるカフェラテ。</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#e8dccb"/>
+      <stop offset="1" stop-color="#cbb493"/>
+    </linearGradient>
+    <radialGradient id="coffee">
+      <stop stop-color="#b8875c"/>
+      <stop offset=".76" stop-color="#8b583a"/>
+      <stop offset="1" stop-color="#69432f"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="440" fill="url(#bg)"/>
+  <circle cx="112" cy="90" r="48" fill="#f8f0df" opacity=".45"/>
+  <path d="M0 302q160-28 319 1t321-2v139H0z" fill="#a27e5c"/>
+  <path d="M0 344q164-27 328 0t312 0" fill="none" stroke="#bd9871" stroke-width="5" opacity=".75"/>
+  <ellipse cx="322" cy="343" rx="179" ry="30" fill="#634a38" opacity=".22"/>
+  <ellipse cx="319" cy="222" rx="171" ry="135" fill="#f4eee2"/>
+  <path d="M481 205q76-35 77 30 1 61-82 56" fill="none" stroke="#eee5d7" stroke-width="25"/>
+  <path d="M481 205q76-35 77 30 1 61-82 56" fill="none" stroke="#bbaa92" stroke-width="4"/>
+  <ellipse cx="319" cy="214" rx="133" ry="101" fill="url(#coffee)"/>
+  <path d="M320 276c-9-13-61-41-61-76 0-27 38-34 61-5 23-29 61-22 61 5 0 35-52 63-61 76z" fill="#f1dfbf"/>
+  <path d="M319 270q-6-44 1-71" fill="none" stroke="#c8a47c" stroke-width="4" stroke-linecap="round"/>
+  <path d="M265 204q26 17 53 24 27-7 53-24" fill="none" stroke="#c8a47c" stroke-width="3" opacity=".8"/>
+  <path d="M132 118q28-25 56 0-28 24-56 0zm18 35q21-19 42 0-21 19-42 0z" fill="#667253" opacity=".72"/>
+</svg>

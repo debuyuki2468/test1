@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">季節の焼き菓子</title>
+  <desc id="desc">クロワッサンと小さな焼き菓子を木のテーブルに並べたイラスト。</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#eee0ca"/>
+      <stop offset="1" stop-color="#d2b58e"/>
+    </linearGradient>
+    <linearGradient id="pastry" x2=".2" y2="1">
+      <stop stop-color="#f5c879"/>
+      <stop offset=".55" stop-color="#d99045"/>
+      <stop offset="1" stop-color="#a95e32"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="440" fill="url(#bg)"/>
+  <circle cx="510" cy="96" r="54" fill="#fff5df" opacity=".45"/>
+  <path d="M0 307q158-34 321 0t319-2v135H0z" fill="#a37b55"/>
+  <path d="M0 351q164-29 322 1t318-2" fill="none" stroke="#bd9369" stroke-width="5" opacity=".7"/>
+  <ellipse cx="321" cy="343" rx="198" ry="30" fill="#654a35" opacity=".2"/>
+  <ellipse cx="312" cy="292" rx="199" ry="57" fill="#eee5d4" stroke="#d4c3a9" stroke-width="5"/>
+  <path d="M165 273q39-89 95-35 31 30 54-28 25-63 63-13 36 48 75 4 25-29 47 7-20 97-164 102-144 4-170-37z" fill="url(#pastry)" stroke="#a85f32" stroke-width="5"/>
+  <path d="M196 268q30-57 64-34m-18 65q37-69 70-41m-18 57q36-73 71-45m-16 51q31-68 66-44m-15 46q27-53 53-36" fill="none" stroke="#f8d894" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 185q34-30 70 0l-12 39q-27 20-52 0z" fill="#cf8a51"/>
+  <path d="M160 186q24-21 49 0m-43 16q19-16 39 0m-32 16q14-12 28 0" fill="none" stroke="#f2c487" stroke-width="5" stroke-linecap="round"/>
+  <path d="M470 175q28-21 56 0l-10 33q-18 15-37 0z" fill="#bd7745"/>
+  <path d="M481 181q16-10 32 0m-27 13q12-8 23 0" fill="none" stroke="#edc184" stroke-width="4" stroke-linecap="round"/>
+  <path d="M93 107q27-24 54 0-27 24-54 0zm18 34q20-18 40 0-20 18-40 0z" fill="#687352" opacity=".72"/>
+</svg>

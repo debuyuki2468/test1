@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">ハンドドリップコーヒー</title>
+  <desc id="desc">木のテーブルの上で、ドリッパーからコーヒーを淹れている様子。</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#e6d9c4"/>
+      <stop offset="1" stop-color="#c5a985"/>
+    </linearGradient>
+    <linearGradient id="pot" x2="1" y2="1">
+      <stop stop-color="#f8f2e7"/>
+      <stop offset="1" stop-color="#d8cbb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="440" fill="url(#bg)"/>
+  <circle cx="505" cy="94" r="52" fill="#f3e8d3" opacity=".42"/>
+  <path d="M0 316q155-36 319 0t321-1v125H0z" fill="#9b7453"/>
+  <path d="M0 354q174-31 332 1t308-2" fill="none" stroke="#b48b64" stroke-width="5" opacity=".65"/>
+  <ellipse cx="327" cy="360" rx="151" ry="25" fill="#654b39" opacity=".24"/>
+  <path d="M211 153h181l-35 111H247z" fill="#566a54"/>
+  <path d="M224 165h155l-25 76H249z" fill="#e7d8bd"/>
+  <path d="M242 168h120l-20 61h-80z" fill="#8a6141"/>
+  <path d="M294 34q13-8 26 0l38 90q4 10-7 12H247q-12-2-7-13z" fill="url(#pot)" stroke="#77634e" stroke-width="5"/>
+  <path d="M242 127h120" stroke="#77634e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M284 143q14 10 5 35" fill="none" stroke="#a76b3e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M274 263h68v17h-68z" fill="#d9cbb6"/>
+  <path d="M263 281h90l-12 71q-2 12-15 12h-38q-13 0-15-12z" fill="url(#pot)" stroke="#77634e" stroke-width="5"/>
+  <path d="M354 294q44-9 39 29-3 27-37 18" fill="none" stroke="#77634e" stroke-width="8"/>
+  <path d="M288 324h39" stroke="#a76b3e" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+  <path d="M85 113q31-28 62 0-31 27-62 0zm23 41q24-22 48 0-24 21-48 0z" fill="#63704f" opacity=".72"/>
+</svg>
