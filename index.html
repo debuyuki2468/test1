@@ -188,6 +188,15 @@
 
     .visit p { color: var(--muted); }
 
+    .visit-map {
+      display: block;
+      width: 100%;
+      max-width: 640px;
+      aspect-ratio: 16 / 9;
+      margin: 28px auto 0;
+      border: 0;
+    }
+
     .visit .button {
       margin-top: 12px;
       border-color: var(--green);
@@ -285,8 +294,16 @@
       <div class="visit">
         <p class="eyebrow">COME VISIT US</p>
         <h2 class="section-heading">お店のこと</h2>
-        <p>東京都〇〇区〇〇 1-2-3<br>〇〇駅から徒歩5分</p>
+        <p>愛知県名古屋市 名鉄名古屋駅</p>
         <p>営業時間 10:00–18:00（火曜定休）</p>
+        <iframe
+          class="visit-map"
+          src="https://maps.google.com/maps?q=%E5%90%8D%E9%89%84%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85&amp;output=embed"
+          title="名鉄名古屋駅のGoogleマップ"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen>
+        </iframe>
         <a class="button" href="mailto:hello@soracoffee.example">お問い合わせ</a>
       </div>
     </section>
